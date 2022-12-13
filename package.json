@@ -1,0 +1,36 @@
+{
+  "name": "bitfumes",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@mantine/core": "^5.8.3",
+    "@mantine/dates": "^5.8.3",
+    "@mantine/form": "^5.8.3",
+    "@mantine/hooks": "^5.8.3",
+    "@mantine/modals": "^5.8.3",
+    "@mantine/notifications": "^5.8.3",
+    "@reduxjs/toolkit": "^1.9.1",
+    "@tabler/icons": "^1.113.0",
+    "chart.js": "^4.0.1",
+    "dayjs": "^1.11.6",
+    "js-cookie": "^3.0.1",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.0.1",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.4.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "@vitejs/plugin-react": "^2.2.0",
+    "vite": "^3.2.3"
+  }
+}
